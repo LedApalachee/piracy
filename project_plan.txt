@@ -84,3 +84,22 @@
 )Да
 )Нет
 )Не слышал о таких
+
+
+(рус)
+https://docs.google.com/forms/d/e/1FAIpQLSfqJGVZBgTOC0JUn0nQpolg4dAU3WvBVdCD68EcyXGicSNB0Q/viewform?usp=sf_link
+
+
+(eng)
+https://docs.google.com/forms/d/e/1FAIpQLSeyEIetO2TDTPsPYizm8aDUL0KIDJBTVR7ZJKhaAjxHpxPm_A/viewform?usp=sf_link
+
+
+
+
+
+
+Способы защиты от пиратства:
+() Обязательное интернет-соединение (в видеоиграх)
+() Lenslock
+() Запись данных на лицензионный диск по спирали, а не по концентрическим окружностям
+() Обязательное взаимодействие с физическими компонентами издания
