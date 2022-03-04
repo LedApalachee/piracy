@@ -1,13 +1,9 @@
-2. Пиратство и люди - раздел о социальной стороне вопроса.
-2.1. Распространенность пиратства - статистическая информация о пиратстве
-2.2. Причины пиратства - что заставляет людей пиратить? (Непонимание, экономическая недоступность, фактическая недоступность)
-3. Небольшая историческая сводка
-3. Борьба с пиратством - название раздела говорит само за себя
-3.1. Произведения защищены законом - рассказать о законах, регулирующих пиратство, о реальных случаях понесения ответственности
-3.2. Произведения защищены механизмом - рассказать о программах, шифрах, защищающих ПО от взлома
-4. Возможные последствия - влияние пиратства на индустрию и какие опасности ждут пирата
-5. Сделать вывод - пиратить или нет. Сделать рекомендации по поводу пиратства
-
+[1] https://docs.google.com/forms/d/e/1FAIpQLSfqJGVZBgTOC0JUn0nQpolg4dAU3WvBVdCD68EcyXGicSNB0Q/viewform?usp=sf_link
+[2] https://www.popsci.com/5-things-know-about-dota-2/#:~:text=Speaking%20of%20Valve's%20profit%20from,month%20from%20Dota%202%20alone.
+[3] https://charlieintel.com/how-much-money-does-warzone-make/158159/
+[4] https://www.pcgamer.com/pc-piracy-survey-results-35-percent-of-pc-gamers-pirate/
+[5] https://www.statista.com/statistics/260198/filmed-entertainment-revenue-worldwide-by-region/#:~:text=In%202019%2C%20the%20theatrical%20market,of%20less%20than%20one%20percent.
+[6] https://legaljobs.io/blog/piracy-statistics/
 
 
 
